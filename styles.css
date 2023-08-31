@@ -1,0 +1,24 @@
+body{
+
+    background-image: url("galaxy.gif");
+    color: bisque;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+#main-logo{
+    width:100px;
+    background-image: none;
+
+}
+.btn{
+    padding:6px 10px;
+    background-color: white;
+    border:none;
+
+font-family: 'Orbitron', sans-serif;
+}
+.underline{
+    border-bottom:4px solid white ;
+
+}

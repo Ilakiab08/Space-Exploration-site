@@ -1,10 +1,15 @@
 body{
 
-    background-image: url("galaxy.gif");
-    color: bisque;
-    background-size: cover;
+   
+    margin: 0;
+    color: #82a5ca;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
+}
+#hero{
+    background-image: url("galaxy.gif");
+    background-size: cover;
+    padding:10px 0 40px 0;
 }
 #main-logo{
     width:100px;
